@@ -17,5 +17,5 @@ Output the entire wizard’s spell by counting from `1` to `N`, giving one numbe
 ## Sample Input/Output
 
 | Input       | Output    |
-| ----------- |:---------:|
+|:-----------:|:---------:|
 | `5`         | 1 Abracadabra<br>2 Abracadabra<br>3 Abracadabra<br>4 Abracadabra<br>5 Abracadabra|

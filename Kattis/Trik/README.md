@@ -21,6 +21,6 @@ Output the index of the cup under which the ball is: `1` if it is under the left
 ## Sample Input/Output
 
 | Input       | Output  |
-| ----------- |:-------:|
+|:-----------:|:-------:|
 | `AB`        |   `3`   |
 | `CBABCACCC` |   `1`   |

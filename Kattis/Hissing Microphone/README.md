@@ -17,6 +17,6 @@ Output a single line. If the input string contains two consecutive occurrences o
 ## Sample Input/Output
 
 | Input       | Output    |
-| ----------- |:---------:|
+|:-----------:|:---------:|
 | `amiss`     | `hiss`    |
 | `octopuses` | `no hiss` |

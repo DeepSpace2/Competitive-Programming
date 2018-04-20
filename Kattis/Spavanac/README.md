@@ -21,7 +21,7 @@ The first and only line of output should contain exactly two integers, the time 
 ## Sample Input/Output
 
 | Input  |  Output |
-| ------ |:-------:|
+|:------:|:-------:|
 | `10 10`|  `9 25` |
 | `0 30` | `23 45` |
 | `23 40`| `22 55` |

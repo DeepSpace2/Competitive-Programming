@@ -21,6 +21,6 @@ The first line of output must contain the integer `N` from the task. The second 
 ## Sample Input/Output
 
 | Input                    | Output          |
-| ------------------------ |:---------------:|
+|:------------------------:|:---------------:|
 | `1`<br>`100`<br>`4`      | `4`<br>`40`     |
 | `100`<br>`500`<br>`12`   | `129`<br>`480`  |

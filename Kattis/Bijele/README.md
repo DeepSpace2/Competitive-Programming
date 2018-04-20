@@ -24,6 +24,6 @@ Output should consist of `6` integers on a single line; the number of pieces of 
 ## Sample Input/Output
 
 | Input         | Output        |
-| ------------- |:-------------:|
+|:-------------:|:-------------:|
 | `0 1 2 2 2 7` | `1 0 0 0 0 1` |
 | `2 1 2 1 2 1` | `-1 0 0 1 0 7`|

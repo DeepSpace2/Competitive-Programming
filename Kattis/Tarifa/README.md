@@ -17,6 +17,6 @@ The first and only line of output must contain the required value from the task.
 ## Sample Input/Output
 
 | Input                              | Output|
-| ---------------------------------- |:-----:|
+|:----------------------------------:|:-----:|
 | `10`<br>`3`<br>`4`<br>`6`<br>`2`   |  `28` |
 | `10`<br>`3`<br>`10`<br>`2`<br>`12` |  `16` |

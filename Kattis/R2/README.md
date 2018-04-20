@@ -15,6 +15,6 @@ Output `R`<sub>`2`</sub> on a single line.
 ## Sample Input/Output
 
 | Input  | Output |
-| -------|:------:|
+|:------:|:------:|
 | `11 15`| `9`    |
 | `4 3`  | `2`    |
