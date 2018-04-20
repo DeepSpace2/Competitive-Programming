@@ -1,4 +1,4 @@
-# Kattis\Spanavac
+# Kattis\Spavanac
 
 ## Description
 
