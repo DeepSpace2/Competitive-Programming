@@ -14,16 +14,8 @@ Input consists of a single integer `N` (`1 ≤ N ≤ 100`).
 
 Output the entire wizard’s spell by counting from `1` to `N`, giving one number and “Abracadabra” per line.
 
-## Sample Input
+## Sample Input/Output
 
-`5`
-
-## Sample Output
-
-```text
-1 Abracadabra
-2 Abracadabra
-3 Abracadabra
-4 Abracadabra
-5 Abracadabra
-```
+| Input       | Output    |
+| ----------- |:---------:|
+| `5`         | 1 Abracadabra<br>2 Abracadabra<br>3 Abracadabra<br>4 Abracadabra<br>5 Abracadabra|

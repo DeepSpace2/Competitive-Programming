@@ -14,18 +14,9 @@ The input contains a single string on a single line. This string consists of onl
 
 Output a single line. If the input string contains two consecutive occurrences of the letter `s`, then output `hiss`. Otherwise, output `no hiss`.
 
-## Sample Input 1
+## Sample Input/Output
 
-`amiss`
-
-## Sample Output 1
-
-`hiss`
-
-## Sample Input 2
-
-`octopuses`
-
-## Sample Output 2
-
-`no hiss`
+| Input       | Output    |
+| ----------- |:---------:|
+| `amiss`     | `hiss`    |
+| `octopuses` | `no hiss` |

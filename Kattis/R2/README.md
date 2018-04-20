@@ -12,18 +12,9 @@ The first and only line of input contains two integers `R`<sub>`1`</sub> and `S`
 
 Output `R`<sub>`2`</sub> on a single line.
 
-## Sample Input 1
+## Sample Input/Output
 
-`11 15`
-
-## Sample Output 1
-
-`9`
-
-## Sample Input 2
-
-`4 3`
-
-## Sample Output 2
-
-`2`
+| Input  | Output |
+| -------|:------:|
+| `11 15`| `9`    |
+| `4 3`  | `2`    |
