@@ -1,0 +1,1 @@
+print('\n'.join('{} Abracadabra'.format(n) for n in range(1, int(input()) + 1)))
