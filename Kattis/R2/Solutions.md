@@ -1,4 +1,6 @@
-# Python 3
+# Solutions
+
+## Python 3
 
 ```python
 r1, s = map(int, input().split())

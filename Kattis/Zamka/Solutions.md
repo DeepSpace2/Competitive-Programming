@@ -1,6 +1,8 @@
-# Python 3
+# Solutions
 
-## Brute Force
+## Python 3
+
+### Brute Force
 
 ```python
 min_range, max_range, required_sum = (int(input()) for _ in range(3))

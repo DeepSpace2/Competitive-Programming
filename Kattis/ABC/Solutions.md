@@ -1,4 +1,6 @@
-# Python 3
+# Solutions
+
+## Python 3
 
 ```python
 nums = map(str, sorted(map(int, input().split())))

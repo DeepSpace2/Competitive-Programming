@@ -1,4 +1,6 @@
-# Python 3
+# Solutions
+
+## Python 3
 
 ```python
 x, y = map(int, (input() for _ in range(2)))

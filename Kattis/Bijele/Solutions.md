@@ -1,4 +1,6 @@
-# Python 3
+# Solutions
+
+## Python 3
 
 ```python
 print(' '.join(str(valid_element - input_element) for valid_element, input_element in zip([1, 1, 2, 2, 2, 8], map(int, input().split()))))

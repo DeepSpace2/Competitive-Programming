@@ -1,4 +1,6 @@
-# Python 3
+# Solutions
+
+## Python 3
 
 ```python
 print('\n'.join('{} Abracadabra'.format(n) for n in range(1, int(input()) + 1)))
