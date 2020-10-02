@@ -1,6 +1,8 @@
-# Exercism.io\Rna Transcription
+Exercism.io\\Rna Transcription
+==============================
 
-## Description
+Description
+-----------
 
 Given a DNA strand, return its RNA complement (per RNA transcription).
 
@@ -20,20 +22,24 @@ Given a DNA strand, its transcribed RNA strand is formed by replacing each nucle
 
 `A` -> `U`
 
-## Input
+Input
+-----
 
 A string representing DNA.
 
-## Output
+Output
+------
 
 A string representing RNA.
 
-## Sample Input/Output
+Sample Input/Output
+-------------------
 
-|Input|Output|
-|:-:|:-:|
-|'C'|'G'|
-|'G'|'C'|
-|'T'|'A'|
-|'A'|'U'|
-|'ACGTGGTCTTAA'|'UGCACCAGAAUU'|
+.. csv-table::
+    :header: "Input", "Output"
+
+    "`'C'`", "`'G'`"
+    "`'G'`", "`'C'`"
+    "`'T'`", "`'A'`"
+    "`'A'`", "`'U'`"
+    "`'ACGTGGTCTTAA'`", "`'UGCACCAGAAUU'`"
