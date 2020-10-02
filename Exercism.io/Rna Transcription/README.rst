@@ -36,10 +36,10 @@ Sample Input/Output
 -------------------
 
 .. csv-table::
-    :header: "Input", "Output"
+    :header: Input, Output
 
-    "`'C'`", "`'G'`"
-    "`'G'`", "`'C'`"
-    "`'T'`", "`'A'`"
-    "`'A'`", "`'U'`"
-    "`'ACGTGGTCTTAA'`", "`'UGCACCAGAAUU'`"
+    'C', 'G'
+    'G', 'C'
+    'T', 'A'
+    'A', 'U'
+    'ACGTGGTCTTAA', 'UGCACCAGAAUU'
