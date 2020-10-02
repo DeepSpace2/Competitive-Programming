@@ -2,7 +2,7 @@ Solutions
 =========
 
 Python 3
-========
+--------
 
 .. code-block:: python
 
