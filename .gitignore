@@ -1,2 +1,3 @@
 .vscode
 *.rst.src
+prepare-codeblocks.py
