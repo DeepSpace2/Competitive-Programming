@@ -1,6 +1,8 @@
-# Kattis\Natrij
+Kattis\\Natrij
+==============
 
-## Description
+Description
+-----------
 
 After an unsuccessful attempt at claiming power peacefully, Borko has decided to tear down Mirko’s village hall, which was built for him out of cardboard by his loyal servants.
 
@@ -10,17 +12,23 @@ Borko knows the current time and when he wants the explosion. He is not very fon
 
 Write a program that calculates the time to the explosion (this is the time Borko will enter into the microprocessor). The time Borko wants is at least one second and at most `24` hours.
 
-## Input
+Input
+-----
 
 The first line of input contains the current time in hh:mm:ss format (hours, minutes, seconds). The hours will be between `0` and `23` (inclusive) and the minutes and seconds between `0` and `59`. The second line contains the time of the explosion in the same format.
 
-## Output
+Output
+------
 
 Output the desired time on a single line, in the same format as the times in the input.
 
-## Sample Input/Output
+Sample Input/Output
+-------------------
 
-|Input|Output|
-|:-:|:-:|
-|`20:00:00`<br>`04:00:00` |`08:00:00`|
-|`12:34:56`<br>`14:36:22`|`02:01:26`|
+.. csv-table::
+    :header: Input, Output
+
+    "| 20:00:00
+    | 04:00:00", 08:00:00
+    "| 12:34:56
+    | 14:36:22", 02:01:26
