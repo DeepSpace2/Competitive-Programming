@@ -6,7 +6,7 @@ This repository contains some of my solutions to problems on multiple competitiv
 `Exercism.io <Exercism.io>`__
 	`Binary <Exercism.io/Binary/README.rst#Exercism.io\Binary>`__
 
-	`Rna Transcription <Exercism.io/Rna Transcription/README.rst#Exercism.io\Rna%20Transcription>`__
+	`Rna%20Transcription <Exercism.io/Rna Transcription/README.rst#Exercism.io\Rna%20Transcription>`__
 
 `Kattis <Kattis>`__
 	`A Different Problem <Kattis/A Different Problem/README.rst#Kattis\A%20Different%20Problem>`__
