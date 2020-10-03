@@ -1,6 +1,8 @@
-# Kattis\Take Two Stones
+Kattis\\Take Two Stones
+=======================
 
-## Description
+Description
+-----------
 
 Alice and Bob are playing a new game of stones. There are `N` stones placed on the ground, forming a sequence. The stones are labeled from `1` to `N`.
 
@@ -8,10 +10,12 @@ Alice and Bob in turns take exactly two consecutive stones on the ground until t
 
 Assume both Alice and Bob play optimally and Alice plays first, do you know who the winner is?
 
-## Input
+Input
+-----
 
 The input contains an integer `N` (`1 ≤ N≤ 10000000`), the number of stones.
 
-## Output
+Output
+------
 
 Output the winner, “Alice” or “Bob” (without the quotes), on a line.
