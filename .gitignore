@@ -1,3 +1,5 @@
 .vscode
+.idea
 *.rst.src
 prepare-codeblocks.py
+prepare-toctree.py
